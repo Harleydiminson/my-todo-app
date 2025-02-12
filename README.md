@@ -1,18 +1,18 @@
-## Todo App
+# Todo App
 This is a simple Todo App built with React and React Query to fetch, create, and delete tasks. It uses JSONPlaceholder API to interact with todos.
 
-## Requirements
+# Requirements
 Node.js: Make sure you have Node.js installed on your machine.
 npm: Package manager for managing dependencies.
 ## Steps to Run the Project
-# Navigate to the project directory
-cd todo-app
-# Install dependencies
+## Navigate to the project directory
+cd my-todo-app
+## Install dependencies
 
 Use npm to install the required dependencies:
 
 npm install
-# Run the development server
+## Run the development server
 
 After installing the dependencies, start the development server:
 
